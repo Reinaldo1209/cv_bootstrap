@@ -1,0 +1,23 @@
+.imgp{
+    border-radius: 100%;
+    width: 200px;
+    margin-top: 10px;
+}
+
+h1{
+    color: rgb(0, 0, 74);
+}
+
+
+.blue{
+    color: rgb(0, 0, 74);
+}
+
+body{
+    background-color: rgb(229, 229, 229);
+}
+
+.al{
+    text-align: left;
+    font-size: small;
+}
